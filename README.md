@@ -1,3 +1,3 @@
 # Text-Summarizer
 
-A simple Flask application to summarize input texts using SentenceBERT.
+A simple Flask application to summarize input texts using SBERT.
